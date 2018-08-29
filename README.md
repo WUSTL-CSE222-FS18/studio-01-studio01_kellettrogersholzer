@@ -8,6 +8,10 @@ You should review all the class policies and post any questions or clarification
 
 ***Q1.0 Please acknowledge that you will review the class policies and, if necessary, ask for any clarifications by Wed, Sept. 5.  Each person should type their name below to acknowledge this request:***
 
+Wyatt Kellett
+Kaitlyn Holzer
+Sean Rogers
+
 # Part 1: Choose your own IoT Adventure
 
 These will be timed activities.  Please note the timer and be sure to use your time wisely.
@@ -17,6 +21,8 @@ These will be timed activities.  Please note the timer and be sure to use your t
 Your group will be both a "Customer" and a "Designer".  First you'll prepare for your Customer role.  Browse through the "Mission" cards and select the one that interests you. You may use either the specific example on the card or be creative and try to develop another example that fits the goal given on the card. Any discussions with  Designers should not reveal the specific example you have in mind.  Try to really think about the example and how it would fit into your life as a customer. Try to build an entire story around it.  Make sure you have a clear vision in mind.
 
 ***Q1.1 Briefly describe your Mission:***
+
+Our mission is to get the designers to create a habit-changing device, which helps the user form or get rid of a habit. Because we have a problem of bad handwriting, our group thought that a pencil that vibrates to alert user's poor handwriting would be a good fix the handwriting.
 
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
 
@@ -28,6 +34,8 @@ Find another group to work with. The other group should be students who neither 
 
 ***Q1.2 Share some notes from your interview here and try to describe the "need" with a very brief description:***
 
+The customers have a need to be more productive with work assignments (specifically job interview applications). They seem to be distracted by social media websites and internet websites, and by wasting time on them, they don't get work done.
+
 (6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that space)
 
 ## Part 1.4: Proposing solutions (8 minutes)
@@ -36,6 +44,10 @@ Return to your original locations.  In this step all groups will act like Design
 
 ***Q1.3 Briefly describe your solutions (use a list) and any strengths/weaknesses you see.***
 
+1. We can create an application for your phone or computer that completely blocks access to the distracting websites that prohibit work. Because "these websites" will be dependent on the user and the situation, they will be chosen by the user, and can always be changed later. Although this change feature can be used to procrastinate and re enable access to blocked websites, which is a weakness, we have to assume that because the user has the app (and wants to get work done), they will use it properly. We will have an option to disable access to these sites during a specific time interval as well, if that make the user do more work.
+
+1. Another option is to connect this "blocking" access to either the wifi, or a smart device, like the smart home. By locking them in a room, the user has no choice but to focus and get work done. Of course, there are emergency instances that our device can account for.
+
 ## Part 1.5: Feedback (10 minutes total)
 
 Meet with your corresponding group again. And, again, select which set will be Designers first.
@@ -43,6 +55,10 @@ Meet with your corresponding group again. And, again, select which set will be D
 (5 minutes) Designers:  Present your solutions and get the Customers' feedback.  As a Designer you should be open to any initial reactions.  Customers: think carefully about your original "need" and try to give both pros and cons of the proposed solutions.
 
 ***Q1.4 Designers: Briefly summarize their feedback for each solution:***
+
+1. Instead of an application, they thought a web extension would be more useful. In addition, they thought that people could cheat too easily by unchecking blocking boxes when the work is not actually complete or done well.
+
+1. They did like the idea, but it could be a little extreme, especially in instances where there are roommates involved, or the workspace is located outside of the home.
 
 (4 minutes): Reverse roles.  Designers: Fill in your answers to the question above.
 
@@ -54,11 +70,17 @@ In this phase everyone is thinking like a Designer.  Design thinking also relies
 
 ***Q1.5 Based on the feedback, how might you change your solution?***
 
+We might cater our application into more specific instances. For example, if an e-mail needs to be sent to someone specific, the application will check whether or not the email WAS actually sent. Likewise, if an essay needs to be completed, the app will run in the background checking words typed and quality of work.
+
 ## Part 1.7 Evaluation (5 minutes)
 
-Switch back to being a Customer and thinking about the product you want and the need it should meet.  Pick three (3) Criteria cards that are most important to you and order them from most important to least important.
+Switch back to being a Customer and thinking about the product you want and the need for it should meet.  Pick three (3) Criteria cards that are most important to you and order them from most important to least important.
 
 ***Q1.6 List your three top Criteria:***
+
+1. Attraction: no one wants a clunky pencil.
+1. Feasibility- do you expect it to work widespread?
+1. Utility- is it practical?
 
 ## Part 1.8: More Feedback (10 minutes total)
 
@@ -68,7 +90,12 @@ Meet with your corresponding group again. And, again, select which set will be D
 
 ***Q1.7 Briefly summarize your findings as a Designer.  Is the customer happy with your work?  How could it be further improved?***
 
+The other group is happy, but says that even more improvement can be made 
+
+
 ***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?***
+
+The other group proposed a sleek finger sensor that would pick up handwriting via handwriting technique. While it was substantially different than what we envisioned, it is still feasible and contains utility. What I am still worried about is attraction to others. A finger sensor wouldn't seem cool to others.
 
 (5 minutes): Reverse roles.  Designers and Customers: Fill in your answers to the question above.
 
